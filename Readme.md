@@ -1,5 +1,8 @@
 # so_long
 
+![In-game Screenshot](ingame_ss.png)
+
+
 ## Goals
 This project is a very small 2D game designed to help you work with textures, sprites, and some basic gameplay elements. The game also enhances your understanding of game loops, event handling, and memory management in C.
 
